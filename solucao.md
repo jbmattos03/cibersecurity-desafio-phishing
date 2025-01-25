@@ -12,7 +12,8 @@ Iniciar o setoolkit, então:
 5) Inserir ip desejado (127.0.0.1)
 
 ## Visitar site clonado
-![image](https://github.com/user-attachments/assets/3cdfec26-8aea-462b-b2ec-4cd4654842b9)
+![image](https://github.com/user-attachments/assets/7f7de75d-e113-4daa-8571-422ef1af4279)
+
 
 
 ## Verificar informações
